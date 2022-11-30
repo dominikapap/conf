@@ -7,4 +7,4 @@ tutaj jest problem
 x
 x
 tutaj xxx
-
+jeszcze tutaj cos zmieniłem
