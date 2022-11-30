@@ -7,4 +7,5 @@ tutaj jest problem
 x
 x
 tutaj xxx
+ i tutaj coś jeszcze
 
