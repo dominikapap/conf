@@ -7,4 +7,9 @@ tutaj jest problem
 x
 x
 tutaj xxx
+<<<<<<< HEAD
 jeszcze tutaj cos zmieniłem
+=======
+ i tutaj coś jeszcze
+
+>>>>>>> e4f848bcafde32ec516ef09e091c1ebd893b4c4d
